@@ -112,6 +112,5 @@ This project helps in understanding:
 ## 👨‍💻 Author
 
 Devan Patel  
-Python & Data Analysis Learner 🚀
 ```
 
